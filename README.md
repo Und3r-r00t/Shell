@@ -1,4 +1,4 @@
-# Shell
+# A Simple Web Shell used for Remote Code Execution
 
 * `shell1.php & You can execute it like "shell1.php?_=system&__=ls"`
 
